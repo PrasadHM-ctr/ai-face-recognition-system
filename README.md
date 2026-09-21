@@ -230,10 +230,13 @@ screenshots/
 ├── recognition-known.png
 └── recognition-unknown.png
 ```
+Home Page
 <img width="631" height="828" alt="Screenshot 2026-09-21 152752" src="https://github.com/user-attachments/assets/a30fed0a-9c2f-4948-9394-2a366ade9414" />
 
+Enrollment Page
 <img width="1024" height="1536" alt="imhj" src="https://github.com/user-attachments/assets/eeb532eb-c381-49f4-8632-f29739b4d9d4" />
 
+Recognition
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b8fdc5d-ad90-4d85-9056-3eaaad54055a" />
 
 
