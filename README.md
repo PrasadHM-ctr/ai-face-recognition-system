@@ -230,14 +230,15 @@ screenshots/
 ├── recognition-known.png
 └── recognition-unknown.png
 ```
+<img width="631" height="828" alt="Screenshot 2026-09-21 152752" src="https://github.com/user-attachments/assets/a30fed0a-9c2f-4948-9394-2a366ade9414" />
 
-![Enrollment](screenshots/enrollment.png)
+<img width="1024" height="1536" alt="imhj" src="https://github.com/user-attachments/assets/eeb532eb-c381-49f4-8632-f29739b4d9d4" />
 
-![Known Recognition](screenshots/recognition-known.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b8fdc5d-ad90-4d85-9056-3eaaad54055a" />
 
-![Unknown Recognition](screenshots/recognition-unknown.png)
 
----
+
+
 
 ## 📁 Project Structure
 
@@ -260,11 +261,7 @@ ai-face-recognition-system/
 │
 ├── face_database/
 │
-└── screenshots/
-    ├── enrollment.png
-    ├── recognition-known.png
-    └── recognition-unknown.png
-```
+
 
 ---
 
@@ -349,11 +346,7 @@ Current limitations:
 
 ---
 
-## 🎤 Interview Explanation
 
-> **I developed an AI-based face recognition system using Python and InsightFace. During enrollment, faces are detected and converted into 512-dimensional embeddings. During recognition, a new face embedding is compared with stored embeddings using cosine similarity. The highest similarity is selected and a threshold of 0.30 determines whether the face is known or unknown. I also implemented multiple samples per identity, failure handling, evaluation, and a Streamlit interface supporting image upload and webcam input.**
-
----
 
 ## ⭐ What This Project Demonstrates
 
