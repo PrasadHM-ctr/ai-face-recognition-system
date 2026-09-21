@@ -241,7 +241,7 @@ screenshots/
 
 ## 🔍 Recognition Page
 
-<img width="1920" height="1080" alt="Recognition Page" src="https://github.com/user-attachments/assets/3b8fdc5d-ad90-4d85-9056-3eaaad54055a" />
+![Uploading jdfejf.png…]()
 
 
 
