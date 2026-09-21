@@ -241,7 +241,8 @@ screenshots/
 
 ## 🔍 Recognition Page
 
-![Uploading jdfejf.png…]()
+<img width="1024" height="1536" alt="jdfejf" src="https://github.com/user-attachments/assets/1cd05d7d-784d-45d6-9673-09cfb3d73e32" />
+
 
 
 
